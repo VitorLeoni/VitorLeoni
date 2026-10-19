@@ -45,5 +45,9 @@
 
 
 </div>
+<div align="center">
 
-> [![Listen on Apple Music](https://img.shields.io/badge/Apple_Music-Ouça_Minha_Playlist-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/us/album/the-great-divide-the-last-of-the-bugs/1894997820)
+[![Capa do Álbum - The Great Divide](https://i.pinimg.com/1200x/1c/df/88/1cdf88455a299a2340cf8664b51044df.jpg)](https://music.apple.com/us/album/the-great-divide-the-last-of-the-bugs/1894997820)
+
+</div>
+
