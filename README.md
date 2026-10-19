@@ -2,9 +2,9 @@
 
 # 🎧 Hello, World! Welcome to my profile
 
-*"I hope you're scared of only ordinary things." 
+*"I hope you're scared of only ordinary things."*
 
- I think, the best thing you can ever wish for someone, because being scared of normal, small, everyday things, is such a privilege.*
+ *I think, the best thing you can ever wish for someone, because being scared of normal, small, everyday things, is such a privilege.*
 
 
 <br>
