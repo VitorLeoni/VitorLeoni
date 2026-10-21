@@ -41,15 +41,15 @@
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 
+
 <div align="center">
 
- 🎵 *Listening to good music.*
+---
 
 
-</div>
-<div align="center">
-
-[![Capa do Álbum - The Great Divide](https://i.pinimg.com/1200x/1c/df/88/1cdf88455a299a2340cf8664b51044df.jpg)](https://music.apple.com/us/album/the-great-divide-the-last-of-the-bugs/1894997820)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLeoni&layout=compact&theme=dark&bg_color=000000&border_color=333333&title_color=ffffff&text_color=cccccc" />
+</p>
 
 </div>
 
